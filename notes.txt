@@ -1,0 +1,8 @@
+https://developers.arcgis.com/javascript/latest/guide/typescript-setup/index.html
+
+https://github.com/Esri/jsapi-resources/blob/master/4.x/typescript/demo/index.html
+
+https://dojotoolkit.org/documentation/tutorials/1.10/cdn/index.html
+
+//TYPESCRIPT
+//https://www.typescriptlang.org/#download-links
